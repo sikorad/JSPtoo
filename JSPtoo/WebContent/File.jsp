@@ -13,7 +13,7 @@
 	
 	<c:catch var="errorMsg">
 		
- 			int x = 50 / 0;
+ 			 int x = 50 / 0;
  		
  	</c:catch>
 	
